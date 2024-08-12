@@ -9,5 +9,6 @@ python -m venv <env_name>
 
 pip install ipykernel 
 
-python -m ipykernel install --name=<env_name>
+Windows: python -m ipykernel install --name=<env_name>
+WSL: ipython kernel install --user --name=.venv
 ```
