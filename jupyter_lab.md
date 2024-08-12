@@ -2,6 +2,7 @@
 
 # Environment Creation 
 
+```
 python -m venv <env_name> 
 
 .\<env_name>\Scripts\activate 
@@ -9,3 +10,4 @@ python -m venv <env_name>
 pip install ipykernel 
 
 python -m ipykernel install --name=<env_name>
+```
