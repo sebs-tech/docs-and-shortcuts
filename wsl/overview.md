@@ -1,12 +1,12 @@
 ```mermaid
 mindmap
-  root((mindmap))
-    Origins
+  root((WSL))
+    Change_Hostname
       Long history
       ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Research
+    install_different_drive
       On effectiveness<br/>and features
       On Automatic creation
         Uses
