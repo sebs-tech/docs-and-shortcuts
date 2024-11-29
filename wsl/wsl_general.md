@@ -59,7 +59,10 @@ $ wsl --terminate <DistributionName>
 ```bash
 $ wsl --unregister <DistributionName>
 ```
-
+## Start a specific WSL 
+```bash
+$ wsl -d <DistributionName>
+```
 
 
 
