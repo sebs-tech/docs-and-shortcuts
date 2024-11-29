@@ -13,6 +13,12 @@ $ wsl --list --online
 ```bash
 $ wsl --install -d <DistroName>
 ```
+
+## Shutdown a distribution 
+```bash
+$ wsl --terminate <DistributionName>
+```
+
 ## Unregister a distribution 
 ```bash
 $ wsl --unregister <DistributionName>
