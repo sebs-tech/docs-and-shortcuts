@@ -63,7 +63,10 @@ $ wsl --unregister <DistributionName>
 ```bash
 $ wsl -d <DistributionName>
 ```
-
+## Start a distro with a user 
+```bash
+$ wsl -d <DistroName> -u username
+```
 
 
 
