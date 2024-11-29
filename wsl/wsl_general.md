@@ -13,5 +13,8 @@ $ wsl --list --online
 ```bash
 $ wsl --install -d <DistroName>
 ```
-
+## Unregister a distribution 
+```bash
+$ wsl --unregister <DistributionName>
+```
 
